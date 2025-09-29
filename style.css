@@ -1,0 +1,29 @@
+html,
+body {
+  font-family: roboto;
+  background-color: black;
+}
+
+nav ul li {
+  display: inline;
+}
+
+#navbar {
+  background-color: lightgrey;
+  padding: 10px;
+  text-align: center;
+}
+
+section {
+  background-color: white;
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+footer {
+  text-align: center;
+  background-color: lightgrey;
+  padding: 10px;
+}
